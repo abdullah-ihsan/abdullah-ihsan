@@ -37,8 +37,8 @@ misc:
 -->
 
 ### How to reach me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/m-abdullah-ihsan/e)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://www.linkedin.com/in/m-abdullah-ihsan/e)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/m-abdullah-ihsan/)
+[![Discord](https://skillicons.dev/icons?i=discord)](538732639763300363)
 <br>
 
 
