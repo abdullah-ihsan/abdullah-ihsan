@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 ### Interests
 - **AI/ML and computer vision:** I have done a few projects using OpenCV in Python (check my repos). Learning AI and ML right now
 - **Linux:** I have been using Linux for a very long time and I can live with the terminal (in most cases I prefer the command line).
-- **Game Development: ** Made a few games in Unity (with C#) and Blender
+- **Game Development:** Made a few games in Unity (with C#) and Blender
 - **Cloud Computing**
 - **App development**
 - **DevOps**
@@ -38,11 +38,9 @@ misc:
 
 ### How to reach me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/m-abdullah-ihsan/)
-[![Discord](https://skillicons.dev/icons?i=discord)](538732639763300363)
 <br>
 
-
-
+Discord: abdullahihsan
 Email: abdullahihsan@gmail.com
 
 
