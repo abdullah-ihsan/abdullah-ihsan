@@ -40,8 +40,9 @@ misc:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/m-abdullah-ihsan/)
 <br>
 
-Discord: abdullahihsan
-Email: abdullahihsan@gmail.com
+**Discord:** abdullahihsan
+<br>
+**Email:** abdullahihsan@gmail.com
 
 
 <!-- 
