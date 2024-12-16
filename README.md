@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - **Game Development:** Made a few games in Unity (with C#) and Blender
 - **Cloud Computing**
 - **App development**
-- **DevOps**
 
 ### What am I currently learning?
 Currently, I am focused on learning machine learning and deep learning. Additionally, I have a keen interest in DevOps and cloud computing, and I am actively pursuing knowledge in those areas as well.
