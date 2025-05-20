@@ -23,7 +23,7 @@ Currently, I am focused on learning machine learning and deep learning. Addition
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,linux,java,python,blender,unity,cs,git,github,go,flutter" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,linux,java,python,unity,cs,git,github,was,huggingface,flutter" />
   </a>
 </p>
 
