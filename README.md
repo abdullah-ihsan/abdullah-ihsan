@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 
 ### What am I currently learning?
-Currently, I am focused on learning machine learning and deep learning. Additionally, I have a keen interest in DevOps and cloud computing, and I am actively pursuing knowledge in those areas as well.
+I am focused on learning LLMs and fine-tuning along with RAG implementation. Additionally, I have a keen interest in DevOps and cloud computing, and I am actively pursuing knowledge in those areas as well.
 
 ### Tools and Languages
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,linux,java,python,unity,cs,git,github,was,huggingface,flutter" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,linux,java,python,unity,cs,git,github,aws,huggingface,flutter" />
   </a>
 </p>
 
